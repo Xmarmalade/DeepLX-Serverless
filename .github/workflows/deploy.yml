@@ -40,5 +40,5 @@ jobs:
           project: "xma-deeplx-serv-less-59"
           entrypoint: "src/server.js"
           root: ""
-          include: *.ts, *.js, *.json, /static/**/*
+          
           
